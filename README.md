@@ -35,7 +35,7 @@
 > osu! PP + Accuracy
 
 ```md
-![pp](https://osu-embed.b68dev.xyz/pp_acc?username=bravo68web)
+![pp_acc](https://osu-embed.b68dev.xyz/pp_acc?username=bravo68web)
 ```
 
 - Example 
