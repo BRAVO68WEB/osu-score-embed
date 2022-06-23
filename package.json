@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/server.js",
+    "dev": "nodemon ./src/server.js",
+    "prettier": "prettier --write ."
   },
   "keywords": [],
   "author": "",
@@ -12,10 +14,15 @@
   "dependencies": {
     "canvas": "^2.9.1",
     "canvas2svg": "^1.0.16",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
+    "helmet": "^5.1.0",
+    "morgan": "^1.10.0",
     "osu-wrapper": "^1.0.3",
     "potrace": "^2.1.8",
+    "prettier": "^2.7.1",
     "svg-png-converter": "^0.0.9"
   }
 }
