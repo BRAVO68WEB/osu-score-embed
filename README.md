@@ -16,14 +16,16 @@
 
 ### 🏠 [Homepage](https://github.com/BRAVO68WEB/osu-score-embed)
 
-### ✨ [Demo](https://osu-embed.b68dev.xyz/)
+### ✨ [Demo]
+
+> (https://osu-embed.b68dev.xyz/)
 
 ### Showcase
 
 > osu! PP 
 
 ```md
-![pp](https://osu-embed.b68dev.xyz/pp)
+![pp](https://osu-embed.b68dev.xyz/pp?username=bravo68web)
 ```
 - Example 
 
@@ -33,7 +35,7 @@
 > osu! PP + Accuracy
 
 ```md
-![pp](https://osu-embed.b68dev.xyz/pp_acc)
+![pp](https://osu-embed.b68dev.xyz/pp_acc?username=bravo68web)
 ```
 
 - Example 
