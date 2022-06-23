@@ -23,11 +23,11 @@
 > osu! PP 
 
 ```md
-![pp](https://https://osu-embed.b68dev.xyz/pp)
+![pp](https://osu-embed.b68dev.xyz/pp)
 ```
 - Example 
 
-![pp](https://https://osu-embed.b68dev.xyz/pp)
+![pp](https://osu-embed.b68dev.xyz/pp)
 
 
 > osu! PP + Accuracy
