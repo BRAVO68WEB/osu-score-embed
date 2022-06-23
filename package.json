@@ -1,7 +1,7 @@
 {
   "name": "osu-fetch-score-embed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Embed osu! stats in Github Readme Profile ",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
