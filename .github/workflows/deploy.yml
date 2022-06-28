@@ -1,4 +1,4 @@
-name: first-github-action
+name: Deploy
 on:  
   workflow_dispatch:
 jobs:
