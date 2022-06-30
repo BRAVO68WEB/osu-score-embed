@@ -8,7 +8,7 @@
     "dev": "nodemon ./src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bravo68web",
   "license": "ISC",
   "dependencies": {
     "canvas": "^2.9.1",
